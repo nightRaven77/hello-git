@@ -1,1 +1,1 @@
-print("Esto es un logi, quieras o no..... ya lo puse en bonito")
+print("Esto es un login, quieras o no..... ya lo puse en bonito")
